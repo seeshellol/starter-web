@@ -1,8 +1,7 @@
-# humanstxt.org/
+# humans.org/
 # The humans responsible & technology colophon
 Hello I am a cat
 #TEAM
-I akhsoudhoiwh
 
 
 # THANKS
