@@ -2,8 +2,7 @@
 # The humans responsible & technology colophon
 Hello I am a cat
 #TEAM
-
-    <name> -- <role> -- <twitter>
+I am here
 
 # THANKS
 
